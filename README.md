@@ -1,6 +1,14 @@
-# hobnobber
+# Hobnobber
 
-A new Flutter project.
+Hobnobber is your very own college companion app providing various facilities to make your college life easier and simpler. 
+We provide you a 24/7 chatbot which is trained according to your textbooks and study materials, with the power of AI in the palm of your hands 
+nothing can hamper your studies anymore.
+However study is not the only thing we are interested to provide, we give you your very own community space , communities can range from coding clubs to playing video games to college gossips
+
+## App demo 
+checkout our video demonstration here [demo](https://i.imgur.com/UkgkL0B.mp4)
+
+see our app build and design [here](https://app.flutterflow.io/project/hobnobber-4dtj1a)
 
 ## Getting Started
 
